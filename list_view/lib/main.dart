@@ -19,7 +19,7 @@ Widget listView(){
         subtitle: Text("Wifi conection available"),
         trailing: Icon(Icons.wifi),
         onTap: (){
-          debugPrint("@nd Tile is clicked");
+          debugPrint("1st Tile is clicked");
         },
       ),
 ListTile(
@@ -28,7 +28,7 @@ ListTile(
         subtitle: Text("Internet conection available"),
         //to make list tile clickable
         onTap: (){
-          debugPrint("@nd Tile is clicked");
+          debugPrint("2nd Tile is clicked");
         },
       ),
 ListTile(
