@@ -1,0 +1,30 @@
+[
+{
+    "subject":"My first message",
+    "body":"Another text which is really very long so everyone can read it and see it."
+},
+  {
+    "subject":"My first message",
+    "body":"Another text which is really very long so everyone can read it and see it."
+    },
+  {
+    "subject":"My first message",
+    "body":"Another text which is really very long so everyone can read it and see it."
+    },
+  {
+   "subject":"My first message",
+    "body":"Another text which is really very long so everyone can read it and see it."
+    },
+  {
+    "subject":"My first message",
+    "body":"Another text which is really very long so everyone can read it and see it and this is really very long that goes on to thirst line."
+    },
+    {
+        "subject":"Another JSON entry",
+        "body":"Another text which is really very long."
+        },
+        {
+            "subject":"Next JSON entry",
+            "body":"This text which is really very long."
+            }
+]
