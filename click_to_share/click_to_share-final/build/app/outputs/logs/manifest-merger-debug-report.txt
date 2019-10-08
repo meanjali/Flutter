@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-19:12
+MERGED from [:camera] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\camera\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-10:12
+MERGED from [:path_provider] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-beta01.aar\d1a9bbf495c06c20142f2304dfd3c214\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\media-1.0.0-beta01.aar\a490e147084382827372ae448eadd312\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\161318b917e71c54fce855a18e6797dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\6dc187ddba686442a17ba38497d9e461\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\ab36761da9be3f9fb48d3c3d40d96d50\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\2001cbe401c12c171b7df7228e3ed006\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\05801e1347165f7853be9894279a29e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\20b6617b43a636dacf091ee772c0bbf7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\203e02d1a0e35a66714eb40a6d64d5bd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\8c0367aa50dbb29e02f254b802f29675\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\57553b1d70f58bab7dceb24f0905f5e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\7f1cf68cdbb0d6c5f17877c0673258f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\e721a8898b7c982ff2d55ec507d79069\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6218a65a15251bc14d7088bd6d5c9b9f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\819b53ebd66a44e827a740b3888e9452\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\012fb767a260b816d9d74e6ecdea7a44\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\43018db3b3e6aac3299c0a604e4cca17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\80525671276a10a517c1957beefc49a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\39a1dcb963b511f90ae3a6cb9335581b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\bc0100cf918214a7644a84bcb96712d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\9c85ad4bf40f674a482c4e193fe84ddd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\ccbdda422449e907f196063caf022ddf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\0b7536050f3824ed5180ada4027df6b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\553d5e4bdcf12ef024608df216eadb25\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:2:5-47
+		INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-17:19
+MERGED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6218a65a15251bc14d7088bd6d5c9b9f\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6218a65a15251bc14d7088bd6d5c9b9f\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\819b53ebd66a44e827a740b3888e9452\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\819b53ebd66a44e827a740b3888e9452\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6218a65a15251bc14d7088bd6d5c9b9f\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:11:9-39
+	android:icon
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.raywenderlich.click_to_share.MainActivity
+ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml
+MERGED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\camera\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\camera\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-beta01.aar\d1a9bbf495c06c20142f2304dfd3c214\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-beta01.aar\d1a9bbf495c06c20142f2304dfd3c214\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\media-1.0.0-beta01.aar\a490e147084382827372ae448eadd312\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\media-1.0.0-beta01.aar\a490e147084382827372ae448eadd312\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\161318b917e71c54fce855a18e6797dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-beta01.aar\161318b917e71c54fce855a18e6797dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\6dc187ddba686442a17ba38497d9e461\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-beta01.aar\6dc187ddba686442a17ba38497d9e461\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\ab36761da9be3f9fb48d3c3d40d96d50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-beta01.aar\ab36761da9be3f9fb48d3c3d40d96d50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\2001cbe401c12c171b7df7228e3ed006\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-beta01.aar\2001cbe401c12c171b7df7228e3ed006\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\05801e1347165f7853be9894279a29e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-beta01.aar\05801e1347165f7853be9894279a29e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\20b6617b43a636dacf091ee772c0bbf7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-beta01.aar\20b6617b43a636dacf091ee772c0bbf7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\203e02d1a0e35a66714eb40a6d64d5bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-beta01.aar\203e02d1a0e35a66714eb40a6d64d5bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\8c0367aa50dbb29e02f254b802f29675\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-beta01.aar\8c0367aa50dbb29e02f254b802f29675\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\57553b1d70f58bab7dceb24f0905f5e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-beta01.aar\57553b1d70f58bab7dceb24f0905f5e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\7f1cf68cdbb0d6c5f17877c0673258f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-beta01.aar\7f1cf68cdbb0d6c5f17877c0673258f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\e721a8898b7c982ff2d55ec507d79069\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-beta01.aar\e721a8898b7c982ff2d55ec507d79069\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6218a65a15251bc14d7088bd6d5c9b9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\core-1.0.0-beta01.aar\6218a65a15251bc14d7088bd6d5c9b9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\819b53ebd66a44e827a740b3888e9452\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-beta01.aar\819b53ebd66a44e827a740b3888e9452\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\012fb767a260b816d9d74e6ecdea7a44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-beta01.aar\012fb767a260b816d9d74e6ecdea7a44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\43018db3b3e6aac3299c0a604e4cca17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-beta01.aar\43018db3b3e6aac3299c0a604e4cca17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\80525671276a10a517c1957beefc49a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\print-1.0.0-beta01.aar\80525671276a10a517c1957beefc49a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\39a1dcb963b511f90ae3a6cb9335581b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-beta01.aar\39a1dcb963b511f90ae3a6cb9335581b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\bc0100cf918214a7644a84bcb96712d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-beta01.aar\bc0100cf918214a7644a84bcb96712d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\9c85ad4bf40f674a482c4e193fe84ddd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-beta01.aar\9c85ad4bf40f674a482c4e193fe84ddd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\ccbdda422449e907f196063caf022ddf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-beta01.aar\ccbdda422449e907f196063caf022ddf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\0b7536050f3824ed5180ada4027df6b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-beta01.aar\0b7536050f3824ed5180ada4027df6b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\553d5e4bdcf12ef024608df216eadb25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\santo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-beta01.aar\553d5e4bdcf12ef024608df216eadb25\AndroidManifest.xml:20:5-44
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\android\app\src\debug\AndroidManifest.xml:6:22-64
+provider#de.esys.esysfluttershare.EsysFlutterShareFileProvider
+ADDED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:13-110
+	android:exported
+		ADDED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:13-81
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-15:72
+	android:resource
+		ADDED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from [:esys_flutter_share] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\esys_flutter_share\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\camera\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [:camera] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\camera\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\camera\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera] C:\Flutter Projects\Stateless-Widget\click_to_share\click_to_share-final\build\camera\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:22-68
