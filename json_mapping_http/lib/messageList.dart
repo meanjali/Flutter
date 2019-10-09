@@ -15,10 +15,14 @@ class MessageList extends StatefulWidget {
 }
 class _MessageListState extends State<MessageList>{
   var messages=const[];
+  bool isLoading=true;
+
   Future loadMessageList() async{
     //root bundle uses package - sevices.dart, it allows to load files as a string
     //String content= await rootBundle.loadString('data/messages.json');
     http.Response response =await http.get('http://www.mocky.io/v2/5d9cd92f3100009ea42fc82f');
+    
+    await Future.delayed(Duration(seconds: 3));
     String content= response.body;
     
     //content is string;load json structure which is sloaded in string format
@@ -32,6 +36,7 @@ class _MessageListState extends State<MessageList>{
     setState(() {
       //messages=collection;
       messages=_messages;
+      isLoading=false;
     });
   }
   void initState(){
@@ -43,7 +48,7 @@ class _MessageListState extends State<MessageList>{
       appBar: AppBar(
       title: Text(widget.title),
       ),
-      body: ListView.separated(
+      body: isLoading?Center(child: CircularProgressIndicator(),):ListView.separated(
         itemCount: messages.length,
         separatorBuilder:(context,index)=> Divider(),
         itemBuilder: (BuildContext context,int index){
